@@ -1,0 +1,7 @@
+[2026-01-09 02:05:14] Build started
+[2026-01-09 02:05:14] Cleaning old artifacts in release/
+[2026-01-09 02:05:14] Collecting source files to package
+[2026-01-09 02:05:14] Creating archive: release/app-1.0.0-20260109_0205.tar.gz
+[2026-01-09 02:05:14] Delivering artifact to delivery/
+[2026-01-09 02:05:14] Success: app-1.0.0-20260109_0205.tar.gz
+[2026-01-09 02:05:14] Build completed
